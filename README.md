@@ -7,7 +7,6 @@
 
 
 <div>
-  <div>
     <h3>Tecnologias que estou em constante aprendizado</h3>
     <p align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50" title="C#" style="margin-right: 10px"/>
@@ -19,7 +18,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" style="margin-right: 10px"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50" title="Tailwind CSS"/>
     </p>
-  </div>
   
   <div align="center">
     <h2>Entre em contato</h2>
